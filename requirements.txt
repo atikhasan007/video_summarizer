@@ -1,17 +1,12 @@
-# Streamlit
-streamlit==1.26.1
-
-# Phi agent framework
-phi==0.8.25
-
-# Google Gemini AI SDK (new genai package)
-google-genai==0.17.0
-
-# Legacy upload_file/get_file (if still needed)
-google-generativeai==0.27.2
-
-# DuckDuckGo search tool
-duckduckgo-search==2.5.8
-
-# For environment variables (optional)
-python-dotenv==1.0.1
+duckduckgo-search
+fastapi
+uvicorn
+groq
+openai
+sqlalchemy
+pgvector
+psycopg[binary]
+pypdf
+streamlit 
+google-generativeai
+pytube
