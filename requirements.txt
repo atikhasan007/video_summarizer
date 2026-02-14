@@ -13,3 +13,8 @@ pytube
 phi==0.8.25
 
 
+streamlit==1.26.0
+phi==0.8.25
+google-genai==0.15.0
+python-dotenv==1.0.0
+
