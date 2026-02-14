@@ -1,12 +1,12 @@
-streamlit==1.26.0
-phi==0.8.25
-duckduckgo-search==2.6.1
-pytube==15.0.0
-python-dotenv==1.0.0
-google-generativeai==0.3.3
-
-# Phi dependencies
-markdown-it-py==2.2.0
-mdurl==0.1.2
-rich==14.3.2
-pygments==2.19.2
+duckduckgo-search
+fastapi
+uvicorn
+groq
+openai
+sqlalchemy
+pgvector
+psycopg[binary]
+pypdf
+streamlit 
+google-generativeai
+pytube
