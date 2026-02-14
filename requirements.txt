@@ -1,10 +1,19 @@
 streamlit==1.26.0
 phi==0.8.25
-google-generativeai==0.14.0
+google-genai==0.3.3
+duckduckgo-search==2.6.1
+pytube==15.0.0
 python-dotenv==1.0.0
 markdown-it-py==2.2.0
 mdurl==0.1.2
 rich==14.3.2
 pygments==2.19.2
-python-3.10.19
-
+# Optional if you plan to use these features
+fastapi==0.111.0
+uvicorn==0.23.2
+groq==0.0.9
+openai==1.32.2
+sqlalchemy==2.0.21
+pgvector==0.3.3
+psycopg[binary]==3.2.2
+pypdf==3.14.0
