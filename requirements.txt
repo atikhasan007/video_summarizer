@@ -2,3 +2,4 @@ streamlit==1.26.1
 phi==0.8.25         # Replace with your installed phi version
 google-generativeai
 python-dotenv
+
