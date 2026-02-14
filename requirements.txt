@@ -10,4 +10,6 @@ pypdf
 streamlit 
 google-generativeai
 pytube
-phi
+phi==0.8.25
+
+
