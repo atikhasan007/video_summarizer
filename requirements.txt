@@ -10,3 +10,4 @@ pypdf
 streamlit 
 google-generativeai
 pytube
+phi
